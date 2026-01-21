@@ -1,48 +1,65 @@
-# 📊 Marketing Data App (Android)
+# 📘 Market Data Analysis Notebooks
 
-Android demo application built with **Kotlin + ViewBinding** that displays market data 
-(BTC, ETH, EURUSD) using mock data and a clean, scalable structure.
+This repository contains **Python Jupyter notebooks** designed to explain and analyze
+financial market data in a simple and educational way.
 
-This project is designed as:
-- A learning demo
-- An MVP foundation
-- A companion to data analysis notebooks
+These notebooks are the **analysis companion** to the Android app:
+**Marketing Data App (Kotlin + ViewBinding)**.
 
 ---
 
-## 🚀 Features
-- Android app (Kotlin)
-- ViewBinding (no legacy findViewById)
-- Mock financial market data
-- Clean architecture
-- Button linking to analysis notebooks
+## 🎯 Purpose
+The goal of this project is to:
+- Explain market data concepts clearly
+- Demonstrate basic data analysis workflows
+- Support a mobile demo application
+- Serve as a learning and prototyping resource
 
 ---
 
-## 📘 Analysis Notebooks
-This app is complemented by Python Jupyter notebooks that explain and analyze
-market data concepts.
+## 📂 Notebooks Overview
 
-👉 Notebooks repository:  
-**https://github.com/cloudassistpro/market-data-notebooks**
+### 01_market_intro.ipynb
+- What is market data
+- Crypto vs Forex basics
+- Symbols and prices
+
+### 02_mock_prices.ipynb
+- Mock price dataset
+- Pandas DataFrame structure
+- Simple visualizations
+
+### 03_future_api.ipynb
+- Project structure for real APIs
+- Placeholder functions
+- Notes on future extensions
 
 ---
 
-## 🧠 Use cases
-- Educational projects
-- Fintech demos
-- Android + Data Analysis learning
-- MVP prototypes
+## 🔗 Related Android App
+The Android demo app that consumes and references these notebooks can be found here:
+
+👉 https://github.com/cloudassistpro/marketing-data-app  
+*(replace with the real app repo URL if needed)*
 
 ---
 
-## 🔧 Tech stack
-- Android
-- Kotlin
-- ViewBinding
-- Python (Jupyter Notebooks)
+## 🧠 Target Audience
+- Students learning data analysis
+- Developers exploring fintech concepts
+- Android developers needing a data backend reference
+- Educational demos and MVP foundations
+
+---
+
+## 🛠️ Tech Stack
+- Python
+- Jupyter Notebook
+- Pandas
+- Matplotlib
 
 ---
 
 ## 📦 Status
-Demo / Prototype – ready to extend with real APIs.
+Demo / Educational Prototype  
+Ready to be extended with real market APIs.
