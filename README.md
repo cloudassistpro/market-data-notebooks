@@ -36,11 +36,12 @@ The goal of this project is to:
 
 ---
 
-## 🔗 Related Android App
-The Android demo app that consumes and references these notebooks can be found here:
+## 📊 Data Analysis Notebooks
 
-👉 https://github.com/cloudassistpro/marketing-data-app  
-*(replace with the real app repo URL if needed)*
+The analytical notebooks used in this app are available here:
+
+- 📘 Notebooks Repository:  
+  https://github.com/cloudassistpro/market-data-notebooks
 
 ---
 
