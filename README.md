@@ -60,6 +60,19 @@ The Android demo app that consumes and references these notebooks can be found h
 
 ---
 
+## 🔗 Related Project
+
+This repository is part of the **MarketDataApp** project.
+
+- 📱 Android App:  
+  https://github.com/cloudassistpro/MarketDataApp
+
+The Android app provides a visual interface, while this repository contains
+the analytical notebooks used for explanation and education.
+
+
+---
+
 ## 📦 Status
 Demo / Educational Prototype  
 Ready to be extended with real market APIs.
